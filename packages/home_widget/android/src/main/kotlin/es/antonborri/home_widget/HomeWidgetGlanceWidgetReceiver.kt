@@ -1,6 +1,5 @@
 package es.antonborri.home_widget
 
-import HomeWidgetGlanceStateDefinition
 import android.appwidget.AppWidgetManager
 import android.content.Context
 import androidx.glance.appwidget.GlanceAppWidget
